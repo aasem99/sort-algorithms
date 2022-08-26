@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584383289 source:c:\users\admin\documents\bubble sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
